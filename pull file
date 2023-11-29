@@ -1,0 +1,7 @@
+export default function App(){
+
+return(
+<div>Random words to test out pulling files form Git Hub repository into local Git files</div>
+)
+
+}
